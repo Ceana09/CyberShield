@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield",
+  "description": "Digital vigilance platform for cyber scam awareness, threat detection, and fraud response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
